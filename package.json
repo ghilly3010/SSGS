@@ -1,12 +1,12 @@
 {
   "name": "labo-string",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "CLI per manipolazione di stringhe in Node.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["cli", "stringhe", "node"],
+  "author": "Alessandro",
   "license": "ISC"
 }

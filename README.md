@@ -23,8 +23,23 @@ Buona analisi e buon lavoro!
 
 ## Installazione e Avvio
 
-*(Questa sezione dovrà essere completata dallo studente come parte dell'Esercizio 1, includendo i comandi per installare le dipendenze ed eseguire l'applicazione e i test).*
+# Labo-String: CLI per Utilità su Stringhe
 
----
+Questo progetto fornisce una semplice Command-Line Interface (CLI) sviluppata in Node.js che offre diverse utilità per la manipolazione di stringhe.
 
-*Suggerimento: Presta particolare attenzione ai requisiti dell'Esercizio 1 del laboratorio per completare e correggere questo README e gli altri file di configurazione.*
+## Funzionalità Principali
+
+- Inversione di una stringa.
+- Verifica se una stringa è palindroma.
+- Troncamento di una stringa a una lunghezza massima specificata.
+- Conteggio delle occorrenze di ciascun carattere in una stringa.
+
+## Requisiti
+
+- Node.js >= 18
+- npm >= 9
+
+## Installazione
+
+```bash
+npm install
