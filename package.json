@@ -9,4 +9,9 @@
   "keywords": ["cli", "stringhe", "node"],
   "author": "Alessandro",
   "license": "ISC"
+  
+  "scripts": {
+  "test": "jest",
+  "coverage": "jest --coverage"
+}
 }
